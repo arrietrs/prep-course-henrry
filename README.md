@@ -1,2 +1,3 @@
 # prep-course-henrry
-repositorio henrry 2024, esta vez sale!!!
+este proyecto es una prueba de como crear un repositorio
+
